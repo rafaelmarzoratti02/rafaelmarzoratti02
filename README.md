@@ -1,9 +1,8 @@
 ## Oi! Eu sou o Rafael Marzoratti
-<div align="center">
-  <a href="https://github.com/rafaelmarzoratti02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelmarzoratti02&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmarzoratti02&layout=compact&langs_count=7&theme=dark"/>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=rafaelmarzoratti02&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rafaelmarzoratti02&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmarzoratti02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ##
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
