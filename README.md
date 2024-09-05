@@ -1,5 +1,5 @@
 ## Oi! Eu sou o Rafael Marzoratti! 
-<h4>Atualmente estou cursando Análise e Desenvolvimento de Sistemas e sou apaixonado por tecnologia e suas diversas aplicações. Foco meus estudos em desenvolvimento web, buscando compreender profundamente seus conceitos para criar soluções que melhorar a qualidade de vida das pessoas. Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos ou aprender algo novo.</h5>
+<h4>Atualmente estou cursando Análise e Desenvolvimento de Sistemas e sou apaixonado por tecnologia e suas diversas aplicações. Foco meus estudos em desenvolvimento web, buscando compreender profundamente seus conceitos para criar soluções que melhorar a qualidade de vida das pessoas. Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos ou aprender algo novo.</h5> <br/>
 ![](https://github-readme-stats.vercel.app/api?username=rafaelmarzoratti02&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmarzoratti02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
