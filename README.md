@@ -1,4 +1,4 @@
-## Oi! Eu sou o Rafael Marzoratti
+## Oi! Eu sou o Rafael Marzoratti, atualmente estou cursando Análise e Desenvolvimento de Sistemas e sou apaixonado por tecnologia e suas diversas aplicações. Foco meus estudos em desenvolvimento web, buscando compreender profundamente seus conceitos para criar soluções que melhorar a qualidade de vida das pessoas. Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos ou aprender algo novo.
 ![](https://github-readme-stats.vercel.app/api?username=rafaelmarzoratti02&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmarzoratti02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -15,7 +15,5 @@
 <div> 
 <a href = "rafaelmarzoratti02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-diaz-marzoratti-67219b1a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
