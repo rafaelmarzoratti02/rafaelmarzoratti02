@@ -1,5 +1,5 @@
 ## Oi! Eu sou o Rafael Marzoratti! 
-<h4>Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e sou apaixonado por tecnologia e suas diversas aplicações. Foco meus estudos em desenvolvimento web, buscando compreender profundamente seus conceitos para criar soluções que melhorem a qualidade de vida das pessoas. Estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos ou aprender algo novo.</h5> 
+<h4>Sou desenvolvedor .net com três anos de experiência em C#, ASP.NET Core, SQL Server e JavaScript. Tenho paixão por criar soluções robustas e escaláveis que impactem positivamente o dia a dia das pessoas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e busco continuamente aprimorar minhas habilidades em desenvolvimento web. Gosto de enfrentar desafios que me permitam aplicar conhecimentos em tecnologias modernas, sempre com foco na qualidade e inovação.</h4> 
 
 ![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmarzoratti02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
