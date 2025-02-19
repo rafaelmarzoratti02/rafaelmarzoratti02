@@ -1,5 +1,10 @@
 ## Oi! Eu sou o Rafael Marzoratti! 
-<h4>Sou desenvolvedor .net com três anos de experiência em C#, ASP.NET Core, SQL Server e JavaScript. Tenho paixão por criar soluções robustas e escaláveis que impactem positivamente o dia a dia das pessoas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e busco continuamente aprimorar minhas habilidades em desenvolvimento web. Gosto de enfrentar desafios que me permitam aplicar conhecimentos em tecnologias modernas, sempre com foco na qualidade e inovação.</h4> 
+<h4>Olá, tudo bem? Seja muito bem-vindo(a)! Sou um desenvolvedor .NET com três anos de experiência, especializado em criar soluções robustas e escaláveis que impactam positivamente o dia a dia das pessoas.
+
+Minha atuação é focada no desenvolvimento com C#, ASP.NET Core e SQL Server, utilizando Entity Framework para otimizar a manipulação de dados. Também possuo experiência com JavaScript e Angular para o desenvolvimento front-end, garantindo soluções completas e integradas.
+
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e busco continuamente aprimorar minhas habilidades, aplicando conceitos como Arquitetura Limpa, CQRS, Clean Code e boas práticas de desenvolvimento para entregar soluções de alta qualidade e performance.
+</h4> 
 
 ![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmarzoratti02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
