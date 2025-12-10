@@ -1,5 +1,5 @@
 ## Oi! Eu sou o Rafael Marzoratti! 
-<h4>Olá, tudo bem? Seja muito bem-vindo(a)! Sou um desenvolvedor .NET com três anos de experiência, especializado em criar soluções robustas e escaláveis que impactam positivamente o dia a dia das pessoas.
+<h4>Olá, tudo bem? Seja muito bem-vindo(a)! Sou um desenvolvedor .NET com quatro anos de experiência, especializado em criar soluções robustas e escaláveis que impactam positivamente o dia a dia das pessoas.
 
 Minha atuação é focada no desenvolvimento com C#, ASP.NET Core e SQL Server, utilizando Entity Framework para otimizar a manipulação de dados. Também possuo experiência com JavaScript e Angular para o desenvolvimento front-end, garantindo soluções completas e integradas.
 
